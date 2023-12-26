@@ -6,7 +6,6 @@
   "license": "MIT",
   "repository": "scttcper/video-filename-parser",
   "homepage": "https://video-filename-parser.vercel.app",
-  "type": "module",
   "exports": "./dist/src/index.js",
   "types": "./dist/src/index.d.ts",
   "files": [
